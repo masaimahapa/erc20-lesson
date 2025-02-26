@@ -17,7 +17,7 @@ export default function Hero() {
               template or set of rules that ensures all tokens work the same way and can interact with each other.
             </p>
             <p className="text-lg text-gray-600">
-              The name comes from "Ethereum Request for Comment #20" - it was the 20th proposal to improve Ethereum. 
+              The name comes from Ethereum Request for Comment #20 - it was the 20th proposal to improve Ethereum. 
               Created in 2015 and officially adopted in 2017, it solved a big problem: making sure different tokens 
               could work together across the Ethereum ecosystem.
             </p>
